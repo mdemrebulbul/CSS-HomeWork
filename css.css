@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+    
+}
+
+label {
+    text-decoration:underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.altbilgi{
+        position: relative ;
+        bottom: 0px;
+        left: 0px;
+        width: 100%;
+        height: 50px;
+        padding:15px;
+        
+}
+
+article{
+    font-size: large;
+}
